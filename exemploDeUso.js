@@ -1,0 +1,7 @@
+/*---
+Entrada: 2025-06-01
+Resposta: MILAN VS PORTUGUESA
+DATA: 01/07/2025
+Competição: COPA LINHA DO TIRO
+
+*/
